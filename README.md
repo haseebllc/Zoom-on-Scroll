@@ -1,3 +1,5 @@
+live view : https://newgithubuser709.github.io/zoomIn-onscroll/
+
 ```hash
 const image = document.querySelector(".zoom-image");
 
